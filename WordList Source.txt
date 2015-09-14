@@ -1,0 +1,31 @@
+Word list complied using the “English Open Word List” (EOWL) project.
+
+almost entirely derived from the “UK Advanced Cryptics Dictionary” (UKACD) Version 1.6, by J Ross Beresford. 
+To make more usable for computer word games all words longer than 10 letters were removed from the UK Advanced Cryptics Dictionary source list, 
+and all proper nouns and words requiring diacritical symbols, hyphens, and apostrophes were removed. 
+
+The current distribution of words for each letter in EOWL is listed below.
+
+A Words - 7,296	N Words - 2,522
+B Words - 7,272	O Words - 3,681
+C Words - 11,382 P Words - 10,278
+D Words - 7,217	Q Words - 720
+E Words - 5,151	R Words - 6,794
+F Words - 5,389	S Words - 15,917
+G Words - 4,747	T Words - 7,289
+H Words - 4,500	U Words - 4,425
+I Words - 3,685	V Words - 2,364
+J Words - 1,287	W Words - 3,147
+K Words - 1,577	X Words - 122
+L Words - 4,126	Y Words - 608
+M Words - 6,891	Z Words - 624
+
+Total Words: 128,985
+
+..........................................................................................................................................
+Below, you will find the original licensing information for the “UK Advanced Cryptics Dictionary.”
+
+UK Advanced Cryptics Dictionary Licensing Information:
+
+Copyright © J Ross Beresford 1993-1999. All Rights Reserved. The following restriction is placed on the use of this publication: if the UK Advanced Cryptics Dictionary is used in a software package or redistributed in any form, the copyright notice must be prominently displayed and the text of this document must be included verbatim.
+There are no other restrictions: I would like to see the list distributed as widely as possible.
